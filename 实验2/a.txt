@@ -1,0 +1,20 @@
+tab space enter   三种分隔符
+
+a%b  结果|a|%|b|，符号与a相同
+
+仅有两种
+%[m].[n]s       n 保留位数
+%[m].[n]f
+
+sizeof(double) = 8
+sizeof(float) = 4
+sizeof(char) = 1
+
+main()	//省略 int
+
+float a;	例1.
+double b;   //  ==> int b;
+
+输入一行字符。例3.  p29
+
+if(5==i)
